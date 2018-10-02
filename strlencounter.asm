@@ -19,7 +19,6 @@ compare:
 
 done:
     mov bx, ax
-    mov cx, 8
 
 print:    
     mov ah, 2
